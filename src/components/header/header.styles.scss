@@ -12,6 +12,7 @@
     display: flex;
 
     .logo {
+      width: 100px;
       float: left;
       padding: 0px 20px;
     }
@@ -33,6 +34,7 @@
 
     .option {
       padding: 10px 15px;
+      cursor: pointer;
     }
   }
 }
