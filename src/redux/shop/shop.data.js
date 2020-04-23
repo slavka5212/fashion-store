@@ -38,7 +38,7 @@ const SHOP_DATA = {
         id: 28,
         name: 'Yellow Track Suit',
         imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
-        price: 135
+        price: 75
       },
       {
         id: 29,
@@ -57,7 +57,7 @@ const SHOP_DATA = {
         id: 30,
         name: 'Camo Down Vest',
         imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-        price: 325
+        price: 125
       },
       {
         id: 31,
